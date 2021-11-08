@@ -175,3 +175,5 @@ since: 2013
 ## Browser support
 
 ![Browser support](http://iissnan.com/nexus/next/browser-support.png)
+
+![image-20211108144646358](C:\shinhyunji-github blog\shinhyunji36.github.io\images\2017-07-20-next-tutorial\image-20211108144646358.png)

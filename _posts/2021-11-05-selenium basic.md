@@ -4,6 +4,8 @@ description: selenium, beautifulsoup을 이용한 web scraping 실습과 수많�
 categories: 
   - Data Engineering
 tags: [selenium, web scraping]
+toc : true
+# author_profile: false
 ---
 
 

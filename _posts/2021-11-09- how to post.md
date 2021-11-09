@@ -12,11 +12,13 @@ toc : true
 
 # Github blog 포스팅 방법
 
+
+
 ## 준비물
 
-1) typora - 마크다운 파일이 웹에서 어떻게 보이는지 바로 시각적으로 보여주기 때문에, 쓰고 고치는  것이 편리함.
-2) github desktop
-3) visual studio code
+1. typora - 마크다운 파일이 웹에서 어떻게 보이는지 바로 시각적으로 보여주기 때문에, 쓰고 고치는  것이 편리함.
+2. github desktop 
+3. visual studio code
 
 
 
